@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/s1m0hYa/s1m0hYa.github.io.git
+	branch = gh-pages
